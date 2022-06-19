@@ -1,0 +1,61 @@
+/* css Login */
+
+.main {
+    width: 100%;
+    text-align: -webkit-center;
+    height: 753px;
+    background-image: url('https://www.mycomputercareer.edu/wp-content/uploads/2020/10/What-is-the-Information-Technology-Security-and-Administration-Program.jpg');
+}
+
+.loginmain {
+    width: 100%;
+    height: full-width;
+    padding-top: 200px;
+}
+
+.card {
+    margin-bottom: auto;
+    width: 500px;
+    align-content: center;
+    background-color: rgba(212, 232, 207, 0.978);
+}
+
+.remember {
+    color: rgb(8, 22, 90);
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #f4d67d;
+    color: black;
+    border: 0 !important;
+}
+
+/*-------------------------------------------------------------------------END------------------------------------------------------------------ */
+
+
+/* css dashboard */
+.navbar-nav .nav-item {
+    float: left;
+
+}
+
+.navbar-nav {
+    float: right !important;
+}
+
+
+/* ---------------------------------------------------------------------------END--------------------------------------------------------------- */
+
+/* mobie: width < 740px */
+@media only screen and (max-width: 46.1875em) {}
+
+/* tablet: 740px =< witdth =< 1024px  */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {}
